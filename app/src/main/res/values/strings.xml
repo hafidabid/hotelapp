@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hotelBooking</string>
+    <string name="title_activity_register_page">registerPage</string>
+</resources>
